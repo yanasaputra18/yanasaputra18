@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Nama Saya YANA Dari Ujung Kulon<br><br>- 🔭 Saya Bekerja Di Genbox Entarprise<br>- 📚 Saya Sedang Belajar Laravel<br>- ⚡ Hobi Saya Membaca</p>
+<p align="left">Nama Saya YANA Dari Ujung Kulon<br><br>- 🔭 Saya Bekerja Di Genbox Entarprise<br>- 📚 Saya Fronend Developer<br>- ⚡ Hobi Saya Membaca</p>
 
 ###
 
