@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">Nama Saya YANA Dari Ujung Kulon<br><br>- 🔭 Saya Bekerja Di Genbox Entarprise<br>- 📚 Saya Frontend Developer<br>- ⚡ Hobi Saya Membaca</p>
+<p align="left">
+  Halo, saya <strong>Yana</strong> dari Ujung Kulon.<br><br>
+  🔭 Saat ini saya bekerja sebagai <strong>Freelance Web Developer</strong>.<br>
+  📚 Fokus utama saya di bidang <strong>Frontend Development</strong>.<br>
+  ⚡ Hobi saya adalah <strong>membaca</strong> dan terus belajar hal baru di dunia teknologi.
+</p>
 
 ###
 
