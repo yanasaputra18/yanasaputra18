@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  Halo, saya <strong>Yana</strong> dari Ujung Kulon.<br><br>
+  Halo, saya <strong>Yana</strong> <br><br>
   🔭 Saat ini saya bekerja sebagai <strong>Freelance Web Developer</strong>.<br>
   📚 Fokus utama saya di bidang <strong>Frontend Development</strong>.<br>
   ⚡ Hobi saya adalah <strong>membaca</strong> dan terus belajar hal baru di dunia teknologi.
