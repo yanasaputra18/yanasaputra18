@@ -16,10 +16,11 @@
 - 🎨 Memiliki ketertarikan kuat pada UI/UX, memadukan logika *coding* dengan sentuhan *Graphic Design*.
 - ⚡ Hobi saya adalah **membaca** dan selalu antusias belajar hal baru di dunia teknologi.
 
+---
+
 ### 🛠️ Languages and Tools
 
-<p align="center">
-  <!-- Frontend & Styling -->
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3" />
@@ -34,10 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss" title="Tailwind CSS" />
   <img width="12" />
-  
-  <br><br>
-
-  <!-- Backend & Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" title="PHP" />
@@ -47,10 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" title="Firebase" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase" title="Supabase" />
-  
-  <br><br>
-
-  <!-- Tools & Other -->
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" title="NPM" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git" />
@@ -58,13 +52,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" title="VS Code" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator" title="Adobe Illustrator" />
-</p>
+</div>
 
 ---
 
 ### 🔥 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanasaputra18&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yanasaputra18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yanasaputra18&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yanasaputra18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
